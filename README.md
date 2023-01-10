@@ -3,3 +3,4 @@
 2. after that add some fields like name, email and images upload option etc.
 3. a details file 
 4. pagination
+5. common header and footer
