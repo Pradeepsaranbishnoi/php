@@ -4,3 +4,4 @@
 3. a details file 
 4. pagination
 5. common header and footer
+6. delete row
